@@ -1,0 +1,101 @@
+!==================================================================================================
+! Webmaster422 magyar ublock kiegeszitese
+! Reklam blokkolas
+! Hasznalatahoz ublock origin plugin javasolt
+! Lista weblapja: https://github.com/webmaster442/ublock-filter
+! Ublock origin plugin: 
+! https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=hu
+! https://addons.mozilla.org/hu/firefox/addon/ublock-origin/
+!==================================================================================================
+
+
+!==================================================================================================
+! Magyar hírdetések
+!==================================================================================================
+*.affiliate.hu/*
+ads.sg.hu/*
+sg.hu/banner/*
+advert.dyna.ultraweb.hu^
+animeaddicts.hu/file/adver/*
+chat.hu/javalogin/banner.php
+csongradihirek.hu/portal/images/banners/*
+csongradihirek.hu/portal/images/stories/_reklamok/*
+freect.hu/php/show_ad.php?*
+hirtv.hu/reklam/*
+myvip.com/bottombanner.php
+noi-praktikak.com/bannerek/*
+puruttya.hu/reklam/*
+sg.hu/adserver/*
+static.myvip.com/design/ads/*
+magyarettermek.hu/banner/*
+humorsarok.com/like/js/*
+humorsarok.com/likelocker/*
+csongradihirek.hu/portal/images/banners/*
+napiszar.hu/datas/*/*.swf
+napiszar.hu/datas/*/*.gif
+napiszar.hu/datas/*/*.gif
+napiszar.hu/datas/*/*.jpg
+rosszlanyok.hu/bannerek/*
+player.vid4u.org
+gdehu.hit.gemius.pl/hitredir/
+rosszlanyok.hu/banners/*
+hu.adultpixie.com/banner/*
+szexhungary.hu/sex/eropolis/*
+www.csabitasvideok.hu/banner_kirako.php
+szextarskereso.hu/banner/*
+track.naturalxl.pl/banner/*
+
+!==================================================================================================
+! Külföldi hirdetések
+!==================================================================================================
+*.broadcastyourass.com/banners/*
+*.ero-advertising.com/*
+*.fling.com/*
+a.lakequincy.com/img/*
+adisfy.com/*
+ads.*.com/*
+ads.static.blip.tv/*
+adserving.cpxinteractive.com/*
+adultimagehost.info/image.php?id=*
+advertising.gamelabs.de/*
+bannerfarm.ace.advertising.com/*
+banners.adultfriendfinder.com/*
+banners.alt.com/piclist?*
+banners.heavenmedia.com/banners/*
+banners.popads.net/*
+cache.gfrevenge.com/zexit/*
+cbanners.virtuagirlhd.com/customdata/banner/*
+cdn.nsimg.net/*
+clicktorrent.info/*
+creatives.livejasmin.com/iframes/*
+crowdgravity.com/AF_CG/MediaServer/Media/*
+drowle.com/cm/i/188.html
+en.generic4all.com/images/banners/*
+enoratraffic.com/imads/*
+feeds.videosz.com/*
+filesonic.com/images/banners/*
+freepicninja.com/freepicninja.js
+imgserv.sponsorads.de/*
+isohunt.com/a/banners/*
+media.trafficjunky.net/*
+money.v2cigs.com/banners/*
+pagead2.googlesyndication.com/pagead/*
+pixhost.org/js/*
+plugin.ws/count.php?*
+predictad.com/scripts/*
+sponsorads.de/*
+static.de.euserv.adaos-ads.net/*
+static.exoclick.com/banners/*
+static.hornywhores.net/hwawe.js
+yfum.com/viking/uploads/*
+redtube.com/bid/*
+popadscdn.net/*
+img*.redtubefiles.com/_thumbs/banner/RTads/*
+*.adbureau.net/*
+cdn.flashtalking.com/*
+graphics.pop6.com/banners/*
+ifa.camads.net^
+pornbay.org/bannerrotator/*
+img.20dollars2surf.com^
+imgchili.com/js/*
+www.kink.com##.nag-screen
