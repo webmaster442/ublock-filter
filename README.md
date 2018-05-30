@@ -8,15 +8,18 @@ Adblock helyett ajánlom a µBlock Origin kiegészítőt, ami ugyan azt tudja, c
 
 ## Szűrők telepítése
 
-<ul>
-<li>Kamu oldalak<br/>
-<a href="abp://subscribe/?location=https://raw.githubusercontent.com/webmaster442/ublock-filter/master/webmaster442-fakesites.txt&title=Webmaster442%20Kamu%20Oldalak%Lista">[ Felíratkozás ]</a>
-<a href="https://github.com/webmaster442/ublock-filter/blob/master/dokumentumok/fakesites.md">[ Részletek ]</a>
-</li>
-<li>Reklámok szűrője<br/>
-<a href="abp://subscribe/?location=https://raw.githubusercontent.com/webmaster442/ublock-filter/master/webmaster442-ads.txt&title=Webmaster442%20Reklam%20Blokkolok">[ Felíratkozás ]</a>
-<a href="https://github.com/webmaster442/ublock-filter/blob/master/dokumentumok/valtozasok.md">[ Részletek ]</a>
-</li>
+A szűrőket manuálisan kell hozzáadni az µBlock szűrőlistához a github korlátozásai miatt.
+
+### Kamu oldalak
+https://raw.githubusercontent.com/webmaster442/ublock-filter/master/webmaster442-fakesites.txt
+
+[[ Részletek ]](https://github.com/webmaster442/ublock-filter/blob/master/dokumentumok/fakesites.md)
+
+### Reklámok szűrője
+
+https://raw.githubusercontent.com/webmaster442/ublock-filter/master/webmaster442-ads.txt
+
+[[ Részletek ]](https://github.com/webmaster442/ublock-filter/blob/master/dokumentumok/valtozasok.md)
 
 ## ublock Plugin telepítése 
 
